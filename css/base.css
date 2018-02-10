@@ -2,7 +2,7 @@ body {
     padding-top: 70px;
     background: url("../img/hex.png") repeat-x;
     background-attachment: fixed;
-    background-color: #ffffff;
+    background-color: #11172e;
 }
 
 body > div.container {
@@ -30,14 +30,14 @@ div.col-md-9 img {
     display: inline;
     padding: 4px;
     line-height: 1.428571429;
-    background-color: #fff;
+    background-color: #202020;
     border: 1px solid #ddd;
     border-radius: 4px;
     margin: 20px auto 30px auto;
 }
 
 h1, h2, h3 {
-    color: #444;
+    color: #aaaaaa;
 }
 
 h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before, h5[id]:before, h6[id]:before {
@@ -184,7 +184,7 @@ footer {
 }
 
 .headerlink {
-    font-family: FontAwesome;
+    font-family: JockeyOne-Regular;
     font-size: 14px;
     display: none;
     padding-left: .5em;
